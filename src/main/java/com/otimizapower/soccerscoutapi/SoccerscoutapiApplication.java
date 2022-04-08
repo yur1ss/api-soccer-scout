@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SoccerscoutapiApplication {
 
 	public static void main(String[] args) {
+		//TODO: Remover posteriormente.
 		SpringApplication.run(SoccerscoutapiApplication.class, args);
 	}
 
